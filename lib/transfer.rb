@@ -1,6 +1,6 @@
 class Transfer
   # your code here
-  # lab puts code in already?
+  # lab puts code in already????
   attr_reader :sender, :receiver, :status, :amount
   def initialize(sender, receiver, amount)
     @sender = sender
